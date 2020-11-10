@@ -1,0 +1,14 @@
+body{
+    font-size: 16px;
+    font-family:'roboto', 'open-sans','sans-serif';
+    color: #333333;
+}
+
+.boxbase .col{
+    background-color:blanchedalmond;
+    height: 33vh;
+    width: 33vw;
+    padding: 2%;
+    border: 1px solid brown;
+}
+
